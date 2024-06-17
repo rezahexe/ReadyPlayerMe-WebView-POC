@@ -29,7 +29,7 @@ expo start
 
 ## About Ready Player Me
 
-[Ready Player Me](https://readyplayer.me/developers) is a cross-game avatar platform for the metaverse.
+[Ready Player Me](https://readyplayer.me/developers) is a cross-game avatar platform for Unity, Unreal Engine, and all web-based stacks.
 
 We give users an interoperable personal avatar that travels with them across many virtual experiences. Developers use our plug-and-play avatar creator so they wouldn’t have to spend months on building their own.
 
