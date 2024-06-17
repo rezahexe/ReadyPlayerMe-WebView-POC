@@ -40,7 +40,7 @@ Visit [docs.readyplayer.me](https://docs.readyplayer.me/) to get started with in
 
 ### Community
 
-Get in touch with the Ready Player Me community over at our [Discord](https://discord.gg/readyplayerme).
+Get in touch with the Ready Player Me community over at our [Forums](https://forum.readyplayer.me/).
 
 ### Becoming a partner
 
