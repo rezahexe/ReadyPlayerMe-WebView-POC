@@ -7,4 +7,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- Initial React Native example
+- Initial React Native examplee
