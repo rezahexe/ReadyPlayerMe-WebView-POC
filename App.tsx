@@ -15,7 +15,6 @@ import AvatarPage from './src/pages/avatar';
 
 const RPM_TARGET = 'readyplayerme';
 
-// Replace with your custom subdomain
 const subdomain = 'shoka';
 
 export default function App() {
